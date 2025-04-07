@@ -2,9 +2,9 @@
 stranger
 ## How are you?
 ### I'm Alain
-**This is my submission for the lab 1**\
-*Pretty interesting markdowns*\
-~~Or is it?~~\
+**This is my submission for the lab 1**  
+*Pretty interesting markdowns*  
+~~Or is it?~~  
 > this is how you quote text 
  
 This is quoted code  
