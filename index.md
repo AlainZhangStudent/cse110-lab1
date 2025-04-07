@@ -1,6 +1,6 @@
-# Hey this is my introduction
+## Hey this is my introduction
 stranger
-## How are you?
+# How are you?
 ### I'm Alain
 **This is my submission for the lab 1**  
 *Pretty interesting markdowns*  
