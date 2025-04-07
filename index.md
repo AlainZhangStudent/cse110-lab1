@@ -15,8 +15,6 @@ def foo():
 
 Here's a fun [link](https://www.youtube.com/watch?v=dQw4w9WgXcQ) ;\).
 
-Link to the section [intro](#Hey).
-
 ## whoami
 
 I’m a third-year computer engineering student at UCSD. I am particularly interested in embedded systems and how software interacts with hardware. I enjoy problem-solving and exploring new technologies in the field of embedded systems. I also like playing basketball and taking care of my 3 cats.
@@ -43,3 +41,5 @@ Here is a relative link to my [README.md](./README.md)
 1. **Haskell**
 2. **Python**
 3. **C/C++**
+
+Link to the section [intro](#Hey).
