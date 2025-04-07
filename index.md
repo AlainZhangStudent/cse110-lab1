@@ -42,4 +42,4 @@ Here is a relative link to my [README.md](./README.md)
 2. **Python**
 3. **C/C++**
 
-Link to the section [intro](#Hey).
+Link to the section [intro](#hey).
