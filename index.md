@@ -1,4 +1,4 @@
-# Hey
+# Hey this is my introduction
 stranger
 ## How are you?
 ### I'm Alain
@@ -42,4 +42,4 @@ Here is a relative link to my [README.md](./README.md)
 2. **Python**
 3. **C/C++**
 
-Link to the section [intro](#hey).
+Link to the section [intro](#hey-this-is-my-introduction)
